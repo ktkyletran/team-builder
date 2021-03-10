@@ -1,0 +1,28 @@
+{
+  "name": "team-builder",
+  "version": "1.0.0",
+  "description": "A Node.js command-line application that takes in information about a team of employees, then generates a HTML webpage that displays each member and their respective descriptions.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktkyletran/team-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktkyletran/team-builder/issues"
+  },
+  "homepage": "https://github.com/ktkyletran/team-builder#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
