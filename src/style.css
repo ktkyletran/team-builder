@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+* {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+body {
+  background-color: rgb(233, 233, 233);
+}
+
+#title-container {
+  border: 5px solid black;
+  border-radius: 20px;
+}
+
+#title {
+background-color: lightblue;
+text-align: center;
+font-size: 100px;
+font-weight: 700;
+border-radius: 15px;
+}
+
+#results {
+  /* background-color: snow; */
+  border-radius: 20px;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+#employee-box {
+  background-color: white;
+  width: 300px;
+  height: 350px;
+  border: 3px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px #535353;
+}
+
+#employee-title {
+  background-color: lightblue;
+  border-radius: 7px;
+}
+
+#employee-description {
+  background-color: white;
+}
