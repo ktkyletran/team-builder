@@ -3,7 +3,6 @@ function generateIntern(answers) {
   <div class="row">
     <div class="col-md-12" id="employee-title">
     <h1>${answers.name}</h1>
-    <hr>
     <h2>${answers.role}</h2>
     </div>
     <div class="col-md-12" id="employee-description">
