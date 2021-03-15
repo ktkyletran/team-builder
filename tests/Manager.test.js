@@ -4,7 +4,7 @@ describe("Manager class", () => {
   describe("office number property", () => {
     it("should return the manager's office number", () => {
       const manager = new Manager('Kyle', 1, 'fake@email.com', 150);
-      expect(manager.officeNumber).toBe(150);
+      expect(manager.office).toBe(150);
       });
   });
   describe("getRole override method", () => {
