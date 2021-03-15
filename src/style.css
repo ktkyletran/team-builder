@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
-
-* {
-  font-family: 'Shadows Into Light', cursive;
-}
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 
 body {
   background-color: rgb(233, 233, 233);
@@ -11,6 +8,7 @@ body {
 #title-container {
   border: 5px solid black;
   border-radius: 20px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #title {
@@ -36,13 +34,24 @@ border-radius: 15px;
   border: 3px solid black;
   border-radius: 10px;
   box-shadow: 5px 5px #535353;
+  display: inline-block;
+  margin-left: 25px;
 }
 
 #employee-title {
+  padding-top: 5px;
   background-color: lightblue;
   border-radius: 7px;
+  overflow: auto;
+  /* font-size: 30px; */
+  font-family: 'Acme', sans-serif;
 }
 
 #employee-description {
+  padding-top: 5%;
   background-color: white;
+  text-align: left;
+  overflow: auto;
+  /* font-size: 20px; */
+  font-family: 'Acme', sans-serif;
 }
