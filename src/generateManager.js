@@ -3,7 +3,7 @@ function generateManager(answers) {
   <div class="row">
     <div class="col-md-12" id="employee-title">
     <h1>${answers.name}</h1>
-    <h2>${answers.role}</h2>
+    <h2>Manager</h2>
     </div>
     <div class="col-md-12" id="employee-description">
       <h5>ID: ${answers.id}</h5>

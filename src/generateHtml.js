@@ -1,4 +1,4 @@
-function generateHtml() {
+function generateHtml(answers) {
   return `<!DOCTYPE html>
   <html lang="en">
   <head>
@@ -27,7 +27,7 @@ function generateHtml() {
     <div class="container" id="result-container">
       <div class="row">
         <div class="col-md-12" id="results">
-          
+          ${answers.name}
         </div>
       </div>
     </div>
@@ -38,5 +38,3 @@ function generateHtml() {
 };
 
 module.exports = generateHtml;
-
-
