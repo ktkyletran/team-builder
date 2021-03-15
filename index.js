@@ -208,7 +208,7 @@ const generateTeam = () => {
   </body>
   </html>
   `
-
+  // Loops to add new employee(s)
   managersArr.forEach(newManager => {
     newManager.roles = addEmployeePrompts.role
     let managerHTML = generateManager(newManager)
