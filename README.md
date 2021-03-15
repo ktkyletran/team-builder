@@ -17,7 +17,7 @@
 
 <h1 id="demonstration">Demonstration Video:</h1>
 <p>The following video demonstrates how to run the tests for this app, its functionality, and how to answer each prompt.</p>
-<a href="https://drive.google.com/file/d/1r4TV0ZpMNrGwY9GaMNajFIOqtf_5izMw/view">Video Link<a>
+<a href="https://drive.google.com/file/d/1r4TV0ZpMNrGwY9GaMNajFIOqtf_5izMw/view" target="_blank">Video Link<a>
 
 <h1 id="installation">Installation</h1>
 
@@ -26,7 +26,8 @@
 - Run `node index.js`
 
 <h1 id="usage">Usage</h1>
-<p>This app must be run in the terminal using the command 'node index.js'</p>
+
+This app must be run in the terminal using the command `node index.js`
 
 <h1 id="license">License</h1>
 <p>Team Builder is licensed by MIT</p>
