@@ -95,7 +95,7 @@ const internPrompts = [
   }
 ];
 
-// Add new manager
+// Add new employees
 const addManager = () => {
   inquirer
   .prompt(managerPrompts)
@@ -109,7 +109,6 @@ const addManager = () => {
   })
 }
 
-// Add new employees
 const addEngineer = () => {
   inquirer
   .prompt(engineerPrompts)
