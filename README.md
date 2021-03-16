@@ -43,7 +43,7 @@ To run the tests, run `npm test` in the terminal
 <h1 id="questions">Questions</h1>
 <p>Please visit the project's GitHub page and email for any questions.</p>
 <ul>
-  <li><a href="https://github.com/ktkyletran">GitHub Page</a></li>
+  <li><a href="https://github.com/ktkyletran/team-builder">GitHub Page</a></li>
   <li><a href="mailto: ktkyletran@gmail.com">Email</a></li>
 </ul>
 
